@@ -108,7 +108,7 @@ Streamlit & Plotly
 
 ## 📈 Dashboard
 
-![Dashboard] <img width="1440" height="772" alt="Screenshot 2026-05-20 at 9 17 52 pm" src="https://github.com/user-attachments/assets/d127f786-8777-4494-bccf-b88d2d82044f" />
+<img width="1440" height="772" alt="Screenshot 2026-05-20 at 9 17 52 pm" src="https://github.com/user-attachments/assets/d127f786-8777-4494-bccf-b88d2d82044f" />
 
 
 The live dashboard is hosted at:
