@@ -108,12 +108,10 @@ Streamlit & Plotly
 
 ## 📈 Dashboard
 
-![Dashboard](dashboard_preview.png)
+![Dashboard](![Uploading Screenshot 2026-05-20 at 9.15.19 pm.png…])
 
 The live dashboard is hosted at:
-**[https://cpi-australia.streamlit.app](https://cpi-australia.streamlit.app)**
-
-*(Replace with your actual Streamlit Cloud URL after deployment)*
+**[https://cpi-australia-group7.streamlit.app](https://cpi-australia-group7.streamlit.app)**
 
 ## 📊 Visual Highlights
 
@@ -167,8 +165,8 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Dhrishita/CPI-Australia.git
-   cd CPI-Australia
+   git clone https://github.com/Dhrishita/CPI Australia.git
+   cd CPI Australia
    ```
 
 2. Create and activate a virtual environment:
